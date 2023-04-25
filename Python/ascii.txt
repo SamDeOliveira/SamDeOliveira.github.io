@@ -1,0 +1,19 @@
+
+
+R = '\033[1;39m'; C = '\033[1;36m'; V = '\033[1;92m';  B = '\033[1;97m';  
+print(f'''
+  
+  {C}
+
+eu sou o rei profano
+{B}
+
+que habita
+{V}
+na 
+{B}
+escuridao
+{C} 
+ sim eu sou
+
+''')
